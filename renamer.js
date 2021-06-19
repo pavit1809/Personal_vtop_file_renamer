@@ -40,13 +40,13 @@ data.sort((a,b)=>{
     return new Date(a[1])-new Date(b[1]);
 });
 
-console.log(data);
-let count=1;
+let count=0;
 data.forEach(element => {
-    change(directoryPath,element[0],`${count}___${element[1]}__${element[2]}`);
     count+=1;
+    change(directoryPath,element[0],`${count}___${element[1]}__${element[2]}`);
 });
 
+console.log(`Parsed ${count} files out of ${files.length} files`);
 
 
 // Test-data:

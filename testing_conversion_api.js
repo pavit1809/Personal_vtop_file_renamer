@@ -13,10 +13,6 @@ const formdata={}
 // form.append("async", "true");
 // form.append("outputFormat", "pdf");
 
-var headers = {
-    'X-ApplicationID': 'a09026cb-6ec0-4934-9eb3-461a3f42ca9c',
-    'X-SecretKey': '39b0e867-7529-455d-bdd9-981eb9e0fc86'
-};
 
 console.log(path.join(__dirname,'../netsec/Attacks_4.ppt'));
 
