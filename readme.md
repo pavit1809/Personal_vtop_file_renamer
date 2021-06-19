@@ -32,7 +32,7 @@ This is the inital folder structure
 
 This is the command for running the utility<br />
 Don't worry about the CLI(Command line interface) folder structure it is a little altered<br />
-The directory vtop.... should contain the repository code 
+The directory vtop.... should contains the repository code 
 <br />
 
 <div align="center">
