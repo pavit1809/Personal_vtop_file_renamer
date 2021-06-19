@@ -20,9 +20,32 @@ Note: This utility might not pass parse all files so free free to give any sugge
 
 # References
 
+This is the inital folder structure
+<br />
+
 <div align="center">
     <img src="./sample/initial.png">
 </div>
 <br />
-This is the inital folder structure
+<br />
+
+
+This is the command for running the utility<br />
+Don't worry about the CLI(Command line interface) folder structure it is a little altered<br />
+The directory vtop.... should contain the repository code 
+<br />
+
+<div align="center">
+    <img src="./sample/folders.png">
+    <img src="./sample/running_on_CLI.png">
+</div>
+<br />
+<br />
+
+This is the final output of the utility, The CLI will show the files which were not parsed in the first line, the second line flag is just for reference, has nothing to do with the working, and the third line tells the output and effect of the code executed.
+<br />
+<div align="center">
+    <img src="./sample/final.png">
+</div>
+
 
